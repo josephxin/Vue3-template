@@ -1,0 +1,11 @@
+dist
+node_modules
+coverage
+*.min.js
+*.min.css
+.DS_Store
+Thumbs.db
+.eslintcache
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
