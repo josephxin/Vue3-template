@@ -21,7 +21,7 @@
     "codemirror": "^6.0.2",
     "codemirror-editor-vue3": "^2.8.0",
     "dayjs": "^1.11.20",
-    "echarts": "^5.5.1",
+    "echarts": "^6.0.0",
     "element-plus": "^2.13.6",
     "file-saver": "^2.0.5",
     "html-docx-js-typescript": "^0.1.5",

@@ -57,8 +57,7 @@
 
 ### 环境要求
 
-- Node.js >= 16.0.0
-- npm >= 7.0.0 或 yarn >= 1.22.0 或 pnpm >= 6.0.0
+- Node.js >= 18.0.0
 
 ### 安装依赖
 
@@ -182,6 +181,9 @@ src/
 ```
 
 ## 常见问题
+
+#### SyntaxError: The requested module 'node:fs/promises' does not provide an export named 'constants'
+- 
 
 ## 🤝 贡献指南
 
